@@ -165,6 +165,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.kgc.WordSearch
     Standalone: com.DefaultCompany.Word-Connect-Game
+    iPhone: com.kgc.Word-Search
   buildNumber:
     Standalone: 0
     VisionOS: 0
